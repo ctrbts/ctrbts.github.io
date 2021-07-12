@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
-
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 /*
 	Eventually by HTML5 UP
 	html5up.net | @ajlkn
@@ -316,7 +316,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: 'Courier New', Courier, monospace;
+		font-family: 'Fira Code','Courier New', Courier, monospace;
 		font-size: 16pt;
 		font-weight: 400;
 		/* letter-spacing: -0.01em; */
